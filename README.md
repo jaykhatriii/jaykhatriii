@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay Khatri</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykhatriii" alt="jaykhatriii" /></a> </p>
 
-- 🌱 I’m currently learning **System Design,**
+- 🌱 I’m currently learning **System Design**
+
+- 💬 Ask me about **Full Stack Dev & Agentic AI**
 
 - 📫 How to reach me **jaykhatri.dev@gmail.com**
 
